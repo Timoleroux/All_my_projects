@@ -6,6 +6,6 @@ I did this a long time ago so it can be really more maximize
 
 AppConsole.py is a console version
 
-AppInterface.py is the same than solids.py with an interface but there is a few bugs 
+AppInterface.py is the same than AppConsole.py with an interface but there is a few bugs 
 
 -----------------------------------------------
