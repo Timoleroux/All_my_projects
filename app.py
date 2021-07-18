@@ -1,5 +1,5 @@
-from PySide2 import QtGui, QtWidgets
-from PySide2.QtCore import QWaitCondition, Qt
+from PySide6 import QtGui, QtWidgets
+from PySide6.QtCore import QWaitCondition, Qt
 import os
 import json
 
